@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "585043096980",
+    "firebase_url": "https://palmphone-ad0fb.firebaseio.com",
+    "project_id": "palmphone-ad0fb",
+    "storage_bucket": "palmphone-ad0fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585043096980:android:bffb3b5d0462aaf9",
+        "android_client_info": {
+          "package_name": "com.example.root.cadastrofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585043096980-7jffc31dsq9g892akdg1ar3uvh23o0kt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.root.cadastrofirebase",
+            "certificate_hash": "227d136d65db682b1107d3adcb6518704ede4dce"
+          }
+        },
+        {
+          "client_id": "585043096980-4gtl3v45oabddgunr0kk0obr8sgem790.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI5iVPNC18ENdnewiil0NVGAx46sgHX-s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585043096980-4gtl3v45oabddgunr0kk0obr8sgem790.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
